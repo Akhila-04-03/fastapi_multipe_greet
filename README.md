@@ -81,7 +81,7 @@ Then visit: `http://127.0.0.1:8000`
 ## Author
 
 Akhila Raveendran P M  
-GitHub: [https://https://github.com/Akhila-04-03/fastapi_multipe_greet/new/main](https://https://github.com/Akhila-04-03/fastapi_multipe_greet/new/main)
+GitHub: [https://github.com/Akhila-04-03/fastapi_multipe_greet/new/main](https://github.com/Akhila-04-03/fastapi_multipe_greet/new/main)
 
 ---
 
