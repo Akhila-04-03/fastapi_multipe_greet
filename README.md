@@ -85,6 +85,4 @@ GitHub: [https://github.com/Akhila-04-03/fastapi_multipe_greet](https://github.c
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
