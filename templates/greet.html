@@ -1,6 +1,11 @@
 {% extends "base.html" %}
+
 {% block title %}Greeting{% endblock %}
+
 {% block content %}
-  <h2>Hello, {{ name }}!</h2>
-  <p>You are {{ age }} years old. {{ age_msg }}</p>
+    <h2>Hello, {{ name }}!</h2>
+    <p>You are {{ age }} years old.</p>
+    {% if age_msg %}
+        <p>{{ age_msg }}</p>
+    {% endif %}
 {% endblock %}
