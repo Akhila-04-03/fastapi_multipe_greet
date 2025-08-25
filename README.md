@@ -9,7 +9,7 @@ A modular FastAPI web app that greets users based on their name and age. Built w
 - Multi-page routing (`/`, `/greet`)
 - Jinja2 templates with inheritance (`base.html`, `index.html`, `greet.html`)
 - Form validation and error handling
-- Deployed on Render: [https://fastapi-multipe-greet.onrender.com](https://fastapi-multipe-greet.onrender.com)
+- Deployed on Render:(https://fastapi-multipe-greet.onrender.com)
 
 ---
 
